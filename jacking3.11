@@ -23,7 +23,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 # ========== REMOTE EXPIRY CONFIGURATION ==========
-REMOTE_URL = "https://raw.githubusercontent.com/veeruback/VEERU-1k-SPECIAL/refs/heads/main/access.txt"
+REMOTE_URL = "https://raw.githubusercontent.com/LEVIXX797/1/main/Acess.txt"
 EXPIRE_MSG = (
     f"\n{Fore.LIGHTRED_EX}{Style.BRIGHT}[✖] FILE ACCESS DENIED\n"
     f"{Fore.YELLOW}{Style.BRIGHT}>>> FILE HAS BEEN TERMINATED\n"
